@@ -1,0 +1,9 @@
+{
+  "name": "jobfinder",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node collector/collect.mjs",
+    "test": "node collector/selftest.mjs"
+  }
+}

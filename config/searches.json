@@ -1,0 +1,25 @@
+{
+  "_readme": "Adzuna searches. A few run each hour, rotating through this list, to stay inside the free tier. 'where' can be a city, state, or left empty for the whole country.",
+  "queries": [
+    { "what": "designer" },
+    { "what": "creative director" },
+    { "what": "art director" },
+    { "what": "marketing manager" },
+    { "what": "brand marketing" },
+    { "what": "content strategist" },
+    { "what": "copywriter" },
+    { "what": "producer" },
+    { "what": "production manager" },
+    { "what": "project manager creative" },
+    { "what": "program manager" },
+    { "what": "account manager agency" },
+    { "what": "account director" },
+    { "what": "human resources" },
+    { "what": "recruiter" },
+    { "what": "people operations" },
+    { "what": "product manager" },
+    { "what": "software engineer" },
+    { "what": "social media manager" },
+    { "what": "communications manager" }
+  ]
+}

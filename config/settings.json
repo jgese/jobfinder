@@ -1,0 +1,7 @@
+{
+  "maxAgeDays": 30,
+  "fetch": { "concurrency": 8, "timeoutMs": 20000 },
+  "ai": { "enabled": true, "model": "openai/gpt-4.1-mini", "requestsPerRun": 6, "jobsPerRequest": 15 },
+  "adzuna": { "country": "us", "callsPerRun": 3, "maxDaysOld": 3, "resultsPerPage": 50 },
+  "discovery": { "probesPerRun": 15, "retryAfterDays": 30 }
+}

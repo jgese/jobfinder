@@ -1,0 +1,29 @@
+{
+  "_readme": "Shared watchlist. Add a company under the system its careers page uses. The slug is the part of its job-board URL after the domain, e.g. boards.greenhouse.io/figma -> figma, jobs.lever.co/spotify -> spotify, jobs.ashbyhq.com/notion -> notion, apply.workable.com/acme -> acme. Companies found through Adzuna are added automatically and don't need to be listed here.",
+  "greenhouse": [
+    { "slug": "figma", "name": "Figma" },
+    { "slug": "airbnb", "name": "Airbnb" },
+    { "slug": "pinterest", "name": "Pinterest" },
+    { "slug": "discord", "name": "Discord" },
+    { "slug": "duolingo", "name": "Duolingo" },
+    { "slug": "reddit", "name": "Reddit" },
+    { "slug": "squarespace", "name": "Squarespace" },
+    { "slug": "webflow", "name": "Webflow" },
+    { "slug": "dropbox", "name": "Dropbox" },
+    { "slug": "etsy", "name": "Etsy" },
+    { "slug": "vimeo", "name": "Vimeo" },
+    { "slug": "stripe", "name": "Stripe" },
+    { "slug": "anthropic", "name": "Anthropic" }
+  ],
+  "lever": [
+    { "slug": "spotify", "name": "Spotify" },
+    { "slug": "palantir", "name": "Palantir" }
+  ],
+  "ashby": [
+    { "slug": "notion", "name": "Notion" },
+    { "slug": "linear", "name": "Linear" },
+    { "slug": "ramp", "name": "Ramp" },
+    { "slug": "openai", "name": "OpenAI" }
+  ],
+  "workable": []
+}

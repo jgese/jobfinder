@@ -1,0 +1,6 @@
+2026-10-31T17:47:41.577Z
+Watching 19 company boards (0 discovered automatically).
+Boards: 17 ok, 2 failed, 3794 postings.
+Adzuna: skipped (no API keys set).
+Index: 1077 jobs (3750 seen this run, 0 carried over, 0 closed).
+AI tagging: 0 jobs upgraded.

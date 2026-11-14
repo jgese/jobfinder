@@ -1,0 +1,9 @@
+{
+ "discovered": [],
+ "probed": {},
+ "failures": {
+  "greenhouse:etsy": 129,
+  "greenhouse:vimeo": 129
+ },
+ "adzunaCursor": 0
+}
